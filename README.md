@@ -3,8 +3,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kryusin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=yumekiti alt=yumekiti /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=Kryusin alt=Kryusin /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Kryusin&show_icons=true&include_all_commits=true)](https://github.com/Kryusin/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kryusin
 )](https://github.com/Kryusin/github-readme-stats)
