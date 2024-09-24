@@ -2,12 +2,12 @@
 <h2 align="center">Github Stats</h2>
 <div class="display:flex;justify-content:space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave" alt="github score" />
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KRYUSIN&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D&card_width=584&card_height=200" alt="GitHub Streak" /></a>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KRYUSIN&theme=synthwave" alt="GitHub Contributions" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KRYUSIN&theme=synthwave" alt="GitHub repos" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KRYUSIN&theme=synthwave" alt="GitHub most" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KRYUSIN&theme=synthwave" alt="GitHub stats" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KRYUSIN&theme=synthwave&utcOffset=8" alt="GitHub time" />
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ryudedev&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D&card_width=584&card_height=200" alt="GitHub Streak" /></a>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryudedev&theme=synthwave" alt="GitHub Contributions" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryudedev&theme=synthwave" alt="GitHub repos" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryudedev&theme=synthwave" alt="GitHub most" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryudedev&theme=synthwave" alt="GitHub stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryudedev&theme=synthwave&utcOffset=8" alt="GitHub time" />
 </div>
 
 
@@ -32,4 +32,4 @@
 <img src="https://skillicons.dev/icons?i=alpinejs,apollo,arduino,bun,cmake,deno,firebase,graphql,jest,maven,opencv,prisma,pytorch,redux,remix,threejs,vite,webpack,wordpress,yarn" />
 
 <h2 align="center">My Trophy</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=KRYUSIN&theme=discord" alt="github trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=ryudedev&theme=discord" alt="github trophy" />
