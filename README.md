@@ -1,6 +1,6 @@
 ![](./assets/group.png)
 
-
+<h3 align="center"><img src="https://github.com/user-attachments/assets/fb567a67-fc4f-4a60-8fce-bec503c7318b"></img></h3>
 <div class="display:flex;justify-content:space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave" alt="github score" />
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ryudedev&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D&card_width=584&card_height=200" alt="GitHub Streak" /></a>
