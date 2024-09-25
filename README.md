@@ -1,5 +1,6 @@
 ![](./assets/group.png)
-<h2 align="center">Github Stats</h2>
+
+
 <div class="display:flex;justify-content:space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave" alt="github score" />
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ryudedev&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D&card_width=584&card_height=200" alt="GitHub Streak" /></a>
@@ -31,5 +32,5 @@
 <h4>ライブラリ・フレームワーク</h4>
 <img src="https://skillicons.dev/icons?i=alpinejs,apollo,arduino,bun,cmake,deno,firebase,graphql,jest,maven,opencv,prisma,pytorch,redux,remix,threejs,vite,webpack,wordpress,yarn" />
 
-<h2 align="center">My Trophy</h2>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/5f226a06-7c05-431a-bbe9-610c035ca379"></img></h3>
 <img src="https://github-profile-trophy.vercel.app/?username=ryudedev&theme=discord" alt="github trophy" />
