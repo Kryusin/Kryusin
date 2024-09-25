@@ -12,7 +12,7 @@
 </div>
 
 
-<h2 align="center">My Skills</h2>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/e89a4188-58b0-456d-9839-7dc7b74db627"></img></h3>
 
 <h4>フロントエンド</h4>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular,flutter,astro,gatsby,nextjs,nuxtjs,babel,bootstrap,tailwind,emotion,less,windi,jquery,alpinejs,materialui" />
